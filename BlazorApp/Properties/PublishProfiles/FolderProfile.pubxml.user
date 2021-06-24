@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Personal\Projects\AspNetCore\BlazorApp\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-06-24T07:05:11.2127207Z;True|2021-06-24T12:35:00.4242412+05:30;True|2021-06-24T11:55:52.2285397+05:30;</History>
+  </PropertyGroup>
+</Project>

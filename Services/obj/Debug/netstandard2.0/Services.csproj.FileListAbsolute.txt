@@ -1,0 +1,9 @@
+E:\Personal\Projects\_github\blazor-background-service\Services\bin\Debug\netstandard2.0\Services.deps.json
+E:\Personal\Projects\_github\blazor-background-service\Services\bin\Debug\netstandard2.0\Services.dll
+E:\Personal\Projects\_github\blazor-background-service\Services\bin\Debug\netstandard2.0\Services.pdb
+E:\Personal\Projects\_github\blazor-background-service\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+E:\Personal\Projects\_github\blazor-background-service\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+E:\Personal\Projects\_github\blazor-background-service\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+E:\Personal\Projects\_github\blazor-background-service\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+E:\Personal\Projects\_github\blazor-background-service\Services\obj\Debug\netstandard2.0\Services.dll
+E:\Personal\Projects\_github\blazor-background-service\Services\obj\Debug\netstandard2.0\Services.pdb

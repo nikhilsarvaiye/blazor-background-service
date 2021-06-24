@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYeMZhF2i73/7ZrAXSz5+n4lF60iKMx+u9XLYVXys8OR8zqhKC0uwj/TXchcZtFiyLl5E/vrsviRHRV7kaxr+g==",
+  "success": true,
+  "projectFilePath": "E:\\Personal\\Projects\\_github\\blazor-background-service\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikhils\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nikhils\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
